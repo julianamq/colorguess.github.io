@@ -6,10 +6,8 @@
   
 body{
     
-    background-image: url(/maxresdefault.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: black;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(157,227,244,1) 42%, rgba(0,212,255,1) 100%);
     font-style: italic;
     size: 350%;
     align-items: center;
